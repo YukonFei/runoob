@@ -1,4 +1,2 @@
 11
-yukon
 
-wcl
